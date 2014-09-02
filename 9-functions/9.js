@@ -1,0 +1,1 @@
+// Look at problems from the previous steps, particularly ones where the program takes some information, does some stuff, then comes back with a result. Turn a few of these into methods. Almost all of the problems listed in the previous sections can be re-written to use methods and to adhere to the single responsibility principle. Go ahead and use multiple methods if necessary.
